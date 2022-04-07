@@ -20,3 +20,6 @@ Example: if the C file is main.c, the output file should be main.s
 
 3-name
 writes a script that compiles a C file and creates an executable named cisfun
+
+4-puts.c
+writes a program that prints exactly "Programming is like building a multilingual puzzle", followed by a new line 
